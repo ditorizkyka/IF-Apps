@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Best Informatics Study</string>
+    <string name="about">About</string>
+    <string name="about_name">Andito Rizkyka Rianto</string>
+    <string name="about_email">rizkykandito@gmail.com</string>
+
+    <string name="desc_app">Aplikasi ini menampilkan 10 kampus terbaik di Indonesia untuk bidang Informatika, memudahkan pengguna membandingkan kualitas pendidikan dan keunggulan tiap kampus.</string>
+
+    <!--    DATA  -->
+    <string name="campus_name">Nama Kampus</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Universitas Indonesia</item>
+        <item>Institut Teknologi Bandung</item>
+        <item>Telkom University</item>
+        <item>Universitas Gadjah Mada</item>
+        <item>Institut Teknologi Sepuluh Nopember</item>
+        <item>Bina Nusantara University</item>
+        <item>Universitas Diponegoro</item>
+        <item>Universitas Brawijaya</item>
+        <item>Universitas Sebelas Maret</item>
+        <item>Universitas Negeri Malang</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Universitas Indonesia (UI) adalah salah satu universitas tertua di Indonesia, didirikan pada tahun 1849. UI dikenal karena fokusnya pada penelitian dan multidisiplin. Kampus ini terletak di Depok, Jawa Barat, dan menawarkan program unggulan di bidang teknik, kedokteran, hukum, dan ekonomi.</item>
+        <item>Institut Teknologi Bandung (ITB) didirikan pada tahun 1920 dan merupakan salah satu universitas teknik terbaik di Indonesia. Terkenal dengan program-program di bidang sains, teknologi, dan teknik, ITB telah melahirkan banyak insinyur dan ilmuwan ternama. Kampusnya berada di Bandung, Jawa Barat.</item>
+        <item>Telkom University, yang didirikan pada tahun 2013, adalah hasil penggabungan beberapa institusi yang berfokus pada teknologi dan telekomunikasi. Universitas ini dikenal sebagai universitas swasta terbaik di Indonesia dalam bidang IT dan bisnis, serta memiliki kolaborasi kuat dengan industri.</item>
+        <item>Universitas Gadjah Mada (UGM) yang didirikan pada tahun 1949 di Yogyakarta adalah salah satu universitas terbesar dan tertua di Indonesia. UGM dikenal dengan fokus penelitiannya di bidang ilmu sosial, humaniora, dan ilmu alam, serta komitmennya terhadap pengembangan masyarakat.</item>
+        <item>Institut Teknologi Sepuluh Nopember (ITS) Surabaya didirikan pada tahun 1957 dan merupakan universitas yang terkenal dalam bidang teknik, teknologi, dan studi kelautan. ITS dikenal karena inovasi-inovasinya dalam ilmu terapan dan kontribusinya pada perkembangan industri di Indonesia.</item>
+        <item>Bina Nusantara (Binus) University, yang didirikan pada tahun 1996 di Jakarta, adalah universitas swasta yang dikenal dengan program unggulannya di bidang teknologi informasi, bisnis, dan desain. Binus sangat terfokus pada integrasi teknologi dalam pendidikan dan kolaborasi dengan industri.</item>
+        <item>Universitas Diponegoro (Undip) yang berdiri sejak tahun 1957 di Semarang, Jawa Tengah, terkenal dengan program studi hukum, ilmu politik, teknik, dan ilmu kesehatan. Undip berkomitmen pada penelitian dan pengembangan yang berfokus pada pembangunan masyarakat dan keberlanjutan lingkungan.</item>
+        <item>Universitas Brawijaya (UB) yang berlokasi di Malang, Jawa Timur, didirikan pada tahun 1963 dan dikenal dengan kekuatan di bidang pertanian, ekonomi, bisnis, dan teknik. UB memiliki kampus yang hijau dan mendukung aktivitas akademik serta ekstrakurikuler mahasiswa.</item>
+        <item>Universitas Sebelas Maret (UNS) Surakarta, yang didirikan pada tahun 1976, menawarkan program unggulan dalam ilmu sosial, humaniora, teknik, dan pendidikan guru. UNS berkembang pesat dalam peringkat akademik baik nasional maupun internasional.</item>
+        <item>Universitas Negeri Malang (UM), didirikan pada tahun 1954, adalah universitas yang terkenal dengan program pendidikan guru dan ilmu pendidikan. Berlokasi di Malang, Jawa Timur, UM memainkan peran penting dalam pengembangan profesional pendidikan di Indonesia.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ui_1</item>
+        <item>@drawable/itb_2</item>
+        <item>@drawable/telkom_3</item>
+        <item>@drawable/ugm_4</item>
+        <item>@drawable/its_5</item>
+        <item>@drawable/binus_6</item>
+        <item>@drawable/undip_7</item>
+        <item>@drawable/ub_8</item>
+        <item>@drawable/uns_9</item>
+        <item>@drawable/um_10</item>
+    </integer-array>
+
+    <string-array name="data_location">
+        <item>Depok, Jawa Barat</item>
+        <item>Bandung, Jawa Barat</item>
+        <item>Bandung, Jawa Barat</item>
+        <item>Yogyakarta, Daerah Istimewa Yogyakarta</item>
+        <item>Surabaya, Jawa Timur</item>
+        <item>Jakarta</item>
+        <item>Semarang, Jawa Tengah</item>
+        <item>Malang, Jawa Timur</item>
+        <item>Surakarta, Jawa Tengah</item>
+        <item>Malang, Jawa Timur</item>
+    </string-array>
+
+
+    <string-array name="data_informatics_profile">
+        <item>Program studi Informatika di Universitas Indonesia (UI) dikenal sebagai salah satu yang terbaik di Indonesia. Kurikulum yang ditawarkan mencakup pemrograman, kecerdasan buatan, jaringan komputer, dan data science. Program ini juga aktif dalam riset dan berkolaborasi dengan industri teknologi dalam dan luar negeri.</item>
+        <item>Institut Teknologi Bandung (ITB) memiliki reputasi yang kuat dalam bidang Informatika. Program ini fokus pada pengembangan software, kecerdasan buatan, komputasi awan, dan teknologi digital. ITB juga menawarkan fasilitas penelitian yang canggih dan memiliki hubungan erat dengan industri teknologi global.</item>
+        <item>Telkom University menawarkan program Informatika yang berorientasi pada teknologi komunikasi dan jaringan. Kurikulumnya mencakup pemrograman, data mining, internet of things (IoT), dan cybersecurity. Telkom University dikenal dengan pendekatan praktik langsung dan kolaborasi dengan perusahaan telekomunikasi.</item>
+        <item>Universitas Gadjah Mada (UGM) menyediakan program Informatika yang komprehensif, mencakup bidang algoritma, kecerdasan buatan, sistem informasi, dan rekayasa perangkat lunak. Program ini terlibat aktif dalam penelitian inovatif yang mendukung pengembangan teknologi di Indonesia.</item>
+        <item>Program Informatika di Institut Teknologi Sepuluh Nopember (ITS) difokuskan pada pengembangan software, kecerdasan buatan, dan sistem tertanam. ITS dikenal dengan proyek-proyek penelitiannya yang berfokus pada teknologi terbaru dan kontribusinya pada solusi industri.</item>
+        <item>Bina Nusantara (Binus) University menawarkan program Informatika dengan kurikulum berbasis teknologi terbaru, seperti kecerdasan buatan, big data, mobile computing, dan software engineering. Binus memiliki koneksi kuat dengan industri teknologi dan sering terlibat dalam proyek kolaboratif dengan perusahaan IT global.</item>
+        <item>Universitas Diponegoro (Undip) menawarkan program Informatika yang mencakup dasar-dasar komputasi, analisis data, teknologi jaringan, dan pengembangan aplikasi. Undip berfokus pada mengembangkan solusi inovatif untuk masalah-masalah lokal melalui pendekatan teknologi.</item>
+        <item>Universitas Brawijaya (UB) memiliki program Informatika yang mencakup komputasi berbasis data, rekayasa perangkat lunak, dan sistem informasi. Program ini dirancang untuk mempersiapkan lulusan yang siap menghadapi tantangan dunia digital dan inovasi teknologi.</item>
+        <item>Universitas Sebelas Maret (UNS) menawarkan program Informatika dengan fokus pada pengembangan perangkat lunak, algoritma, keamanan informasi, dan komputasi awan. UNS terus memperbarui kurikulumnya sesuai dengan perkembangan terbaru dalam teknologi informasi.</item>
+        <item>Universitas Negeri Malang (UM) menyajikan program Informatika yang berfokus pada pengajaran pemrograman, analisis sistem, pengembangan perangkat lunak, dan pendidikan teknologi. UM juga menekankan pada pengembangan keterampilan praktis yang relevan dengan kebutuhan industri IT.</item>
+    </string-array>
+
+
+    <string-array name="data_long_description">
+        <item>Universitas Indonesia (UI) adalah salah satu universitas tertua di Indonesia yang dibangun pada tahun 1849. UI memiliki reputasi yang sangat baik dalam pendidikan tinggi, terutama dalam bidang ilmu sosial, kedokteran, teknik, dan hukum. Kampus utamanya terletak di Depok, Jawa Barat, dengan cabang di Salemba, Jakarta. UI menawarkan berbagai program studi dari jenjang sarjana hingga doktoral, didukung oleh fasilitas penelitian yang lengkap dan modern. Dengan fokus pada inovasi dan pengembangan pengetahuan, UI secara konsisten berada di peringkat teratas universitas di Indonesia dan dikenal secara internasional karena kualitas pendidikannya yang tinggi.</item>
+        <item>Institut Teknologi Bandung (ITB), yang dibangun pada tahun 1920, adalah salah satu universitas teknik dan sains terkemuka di Indonesia. Terletak di Bandung, Jawa Barat, ITB dikenal dengan kontribusinya dalam pengembangan teknologi, sains, dan seni di Indonesia. ITB memiliki berbagai program studi unggulan di bidang teknik, ilmu alam, matematika, seni, dan desain. Universitas ini juga terkenal dengan kontribusinya dalam riset dan pengembangan teknologi yang berdampak besar pada kemajuan industri nasional. ITB telah melahirkan banyak alumni sukses yang berpengaruh dalam berbagai sektor, baik di tingkat nasional maupun internasional.</item>
+        <item>Telkom University, dibangun pada tahun 2013, merupakan hasil penggabungan beberapa institusi pendidikan yang berfokus pada teknologi dan telekomunikasi. Terletak di Bandung, Jawa Barat, Telkom University adalah universitas swasta yang dikenal dengan spesialisasinya dalam bidang teknologi informasi, bisnis digital, dan telekomunikasi. Kurikulum yang diterapkan di universitas ini dirancang untuk memenuhi kebutuhan industri 4.0 dengan pendekatan yang menggabungkan teori dan praktik langsung. Dengan dukungan dari perusahaan telekomunikasi terkemuka di Indonesia, Telkom University juga menjalin kerjasama erat dengan berbagai institusi global untuk meningkatkan kualitas pendidikan dan risetnya.</item>
+        <item>Universitas Gadjah Mada (UGM), yang dibangun pada tahun 1949, adalah universitas negeri yang terletak di Yogyakarta. UGM dikenal sebagai salah satu universitas terbesar dan tertua di Indonesia dengan cakupan program studi yang sangat luas, mulai dari ilmu sosial dan humaniora, ilmu alam, hingga teknik dan kesehatan. UGM memainkan peran penting dalam pengembangan masyarakat dan ilmu pengetahuan di Indonesia melalui penelitian inovatif dan program pengabdian kepada masyarakat. Dengan kampus yang hijau dan fasilitas pendidikan yang modern, UGM secara aktif berpartisipasi dalam berbagai proyek nasional dan internasional untuk meningkatkan kesejahteraan masyarakat.</item>
+        <item>Institut Teknologi Sepuluh Nopember (ITS) Surabaya, dibangun pada tahun 1957, adalah salah satu universitas teknik terkemuka di Indonesia. ITS memiliki fokus utama pada bidang teknik, teknologi, dan ilmu kelautan. Dikenal dengan inovasi dan penelitiannya yang maju, ITS berkontribusi besar dalam pengembangan teknologi di Indonesia, khususnya di sektor industri dan kemaritiman. Kampus ITS yang modern dilengkapi dengan berbagai laboratorium dan pusat penelitian yang mendorong kolaborasi antara akademisi, industri, dan pemerintah. ITS juga aktif dalam menciptakan solusi teknologi yang berkelanjutan dan ramah lingkungan.</item>
+        <item>Bina Nusantara (Binus) University, dibangun pada tahun 1996, adalah salah satu universitas swasta terbesar di Indonesia dengan fokus pada teknologi informasi, bisnis, dan desain. Terletak di Jakarta, Binus dikenal dengan pendekatan pendidikannya yang inovatif dan integrasi teknologi digital dalam semua aspek pembelajaran. Universitas ini memiliki program studi yang dirancang untuk menghasilkan lulusan yang siap menghadapi tantangan industri global dengan keterampilan yang relevan. Selain itu, Binus memiliki jaringan kerjasama yang luas dengan perusahaan multinasional dan universitas terkemuka di seluruh dunia, yang memperkaya pengalaman belajar para mahasiswanya.</item>
+        <item>Universitas Diponegoro (Undip), dibangun pada tahun 1957 di Semarang, Jawa Tengah, adalah salah satu universitas negeri terkemuka di Indonesia. Undip memiliki fokus pada pengembangan ilmu pengetahuan, teknologi, dan seni yang berkelanjutan. Dengan berbagai program studi unggulan di bidang teknik, ilmu sosial, ekonomi, dan kesehatan, Undip secara konsisten berkontribusi pada penelitian yang berorientasi pada solusi masalah lokal dan nasional. Kampusnya yang strategis dan berfasilitas lengkap mendukung atmosfer akademik yang kondusif dan kreatif untuk pengembangan riset dan inovasi.</item>
+        <item>Universitas Brawijaya (UB), dibangun pada tahun 1963 di Malang, Jawa Timur, adalah salah satu universitas terbesar di Indonesia dengan berbagai program studi yang unggul. UB dikenal dengan keunggulannya dalam bidang pertanian, ilmu sosial, ekonomi, kedokteran, dan teknik. Universitas ini memiliki kampus yang luas dan hijau, yang menyediakan fasilitas pendidikan dan penelitian yang modern serta mendukung kegiatan akademik dan ekstrakurikuler mahasiswa. UB terus berkomitmen untuk mengembangkan pendidikan yang berorientasi pada kesejahteraan masyarakat dan keberlanjutan lingkungan.</item>
+        <item>Universitas Sebelas Maret (UNS), yang dibangun pada tahun 1976 di Surakarta, Jawa Tengah, menawarkan berbagai program pendidikan tinggi dengan kualitas yang tinggi. UNS terkenal dengan program-program unggulan di bidang ilmu sosial, humaniora, pendidikan, teknik, dan kesehatan. Dengan komitmen untuk terus meningkatkan kualitas akademik dan pengabdian kepada masyarakat, UNS aktif dalam penelitian yang inovatif dan proyek-proyek sosial yang berdampak positif bagi komunitas lokal dan global.</item>
+        <item>Universitas Negeri Malang (UM), dibangun pada tahun 1954 di Malang, Jawa Timur, adalah salah satu institusi pendidikan guru terbaik di Indonesia. UM berfokus pada pengembangan pendidikan dan pembelajaran, serta ilmu sosial dan humaniora. Dengan dedikasi untuk mencetak tenaga pendidik yang profesional dan berkualitas, UM memainkan peran penting dalam meningkatkan mutu pendidikan di Indonesia. Kampus UM dilengkapi dengan fasilitas modern yang mendukung kegiatan belajar mengajar serta penelitian yang kreatif dan inovatif.</item>
+    </string-array>
+
+
+    <string-array name="data_founded">
+        <item>Dibangun pada tahun 1849.</item>
+        <item>Dibangun pada tahun 1920.</item>
+        <item>Dibangun pada tahun 2013.</item>
+        <item>Dibangun pada tahun 1949.</item>
+        <item>Dibangun pada tahun 1957.</item>
+        <item>Dibangun pada tahun 1996.</item>
+        <item>Dibangun pada tahun 1957.</item>
+        <item>Dibangun pada tahun 1963.</item>
+        <item>Dibangun pada tahun 1976.</item>
+        <item>Dibangun pada tahun 1954.</item>
+    </string-array>
+
+    <string-array name="data_rectors">
+        <item>Prof. Ari Kuncoro, S.E., M.A., Ph.D. - Rektor Universitas Indonesia (UI)</item>
+        <item>Prof. Reini Wirahadikusumah, Ph.D. - Rektor Institut Teknologi Bandung (ITB)</item>
+        <item>Prof. Dr. Adiwijaya - Rektor Telkom University</item>
+        <item>Prof. dr. Ova Emilia, M.Med.Ed., Sp.OG(K), Ph.D. - Rektor Universitas Gadjah Mada (UGM)</item>
+        <item>Prof. Dr. Ir. Mochamad Ashari, M.Eng. - Rektor Institut Teknologi Sepuluh Nopember (ITS)</item>
+        <item>Prof. Dr. Ir. Harjanto Prabowo, M.M. - Rektor Bina Nusantara (Binus) University</item>
+        <item>Prof. Dr. Yos Johan Utama, S.H., M.Hum. - Rektor Universitas Diponegoro (Undip)</item>
+        <item>Prof. Dr. Ir. Nuhfil Hanani, MS. - Rektor Universitas Brawijaya (UB)</item>
+        <item>Prof. Dr. Jamal Wiwoho, M.Si. - Rektor Universitas Sebelas Maret (UNS)</item>
+        <item>Prof. Dr. H. Ahmadi, M.Pd. - Rektor Universitas Negeri Malang (UM)</item>
+    </string-array>
+
+    <string-array name="data_accreditation">
+        <item>Akreditasi A - Universitas Indonesia (UI)</item>
+        <item>Akreditasi A - Institut Teknologi Bandung (ITB)</item>
+        <item>Akreditasi A - Telkom University</item>
+        <item>Akreditasi A - Universitas Gadjah Mada (UGM)</item>
+        <item>Akreditasi A - Institut Teknologi Sepuluh Nopember (ITS)</item>
+        <item>Akreditasi A - Bina Nusantara (Binus) University</item>
+        <item>Akreditasi A - Universitas Diponegoro (Undip)</item>
+        <item>Akreditasi A - Universitas Brawijaya (UB)</item>
+        <item>Akreditasi B - Universitas Sebelas Maret (UNS)</item>
+        <item>Akreditasi A - Universitas Negeri Malang (UM)</item>
+    </string-array>
+
+
+</resources>
